@@ -1,3 +1,15 @@
+''' To run the Bash script solution in Visual Studio Code, you can follow these steps:
+
+Create a new file in VS Code, e.g., princess_rescue.sh.
+Copy the Bash script code into the file.
+Make the script executable by running 
+chmod +x princess_rescue.sh 
+in the terminal.
+Run the script by executing 
+./princess_rescue.sh
+ in the terminal.
+'''
+
 displayPathtoPrincess() {
     local n=$1
     shift
