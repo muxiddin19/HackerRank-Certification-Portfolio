@@ -1,8 +1,3 @@
-I'll solve this problem by creating a Python function that finds the path to the princess efficiently.
-
-
-
-```python
 def displayPathtoPrincess(n, grid):
     # Find the bot and princess positions
     bot_pos = None
@@ -55,9 +50,6 @@ def main():
 # if __name__ == "__main__":
 #     main()
 
-```
-
-Let me explain the solution:
 
 1. The function `displayPathtoPrincess` first finds the positions of the bot ('m') and the princess ('p') in the grid.
 
